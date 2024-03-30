@@ -55,7 +55,7 @@ pip install openradar
 
 ### Debug Mode
 ```
-git clone https://github.com/presenseradar/openradar
+git clone https://github.com/itberrios/OpenRadar
 cd openradar
 pip install -r requirements.txt
 python setup.py develop
